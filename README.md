@@ -7,6 +7,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 ### Hướng đãn
 
 Sau khi tải **PUBGMC** các bạn giải nén ra và mở file _HUONG_DAN.txt_ và làm theo.
+
 Facebook Hỗ Trợ : https://www.facebook.com/anivndev/
 
 ```markdown
