@@ -12,6 +12,9 @@ Facebook Hỗ Trợ : https://www.facebook.com/anivndev/
 
 ```markdown
 
+#11/9/2018
+- Update thêm bản 32Bit
+
 #5/9/2018
 - Fix độ nhạy dọc
 - Add bảng tùy chỉnh C & D từng loại súng
