@@ -8,7 +8,15 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 
 **!!! LƯU Ý : WINDOW 8 TRỞ LÊN THÌ CÁC BẠN CHẠY MACRO VỚI QUYỀN ADMIN NHÉ !!!**
 
-Sau khi tải **PUBGMC** các bạn giải nén ra và mở file _HUONG_DAN.txt_ và làm theo.
+### Mua key
+```markdown
+
+1. CHẠY FILE Info.exe
+2. CHỤP BẢNG THÔNG SỐ MỚI HIỆN LÊN
+3. GỬI QUA FACEBOOK ( facebook.com/anivndev )
+4. ĐỢI PHẢN HỒI
+
+```
 
 Facebook Hỗ Trợ : https://www.facebook.com/anivndev/
 
