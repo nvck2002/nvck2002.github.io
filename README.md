@@ -32,7 +32,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
   Win  +       Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ X6
   Ctrl + Alt + Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ X8
 
-  _( Numpad có nghĩa là hàng phím số bên phải bàn phím, và các số từ 1 đến 9 tương ứng với từng súng khác nhau )_
+  ( _Numpad có nghĩa là hàng phím số bên phải bàn phím, và các số từ 1 đến 9 tương ứng với từng súng khác nhau_ )
 
 ```
 
