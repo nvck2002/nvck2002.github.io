@@ -21,11 +21,11 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
  * Key vĩnh viễn ==> 50.000 vnđ ( Không áp dụng cho máy quán nét )
  
 # Cách sử dụng Macro
- *Chức năng*
-  Tự động bắn      : *Insert*
-  Giảm giật        : *Mbutton*  ( Con lăn chuột )
-  Thu nhỏ/Phóng to : *Home*
- *Chọn súng*
+ **Chức năng**
+  Tự động bắn      : Insert
+  Giảm giật        : Mbutton  ( Con lăn chuột )
+  Thu nhỏ/Phóng to : Home
+ **Chọn súng**
                Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ Redot
   Ctrl +       Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ X4
   Alt  +       Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ X3
