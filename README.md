@@ -8,13 +8,31 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 
 **!!! LƯU Ý : WINDOW 8 TRỞ LÊN THÌ CÁC BẠN CHẠY MACRO VỚI QUYỀN ADMIN NHÉ !!!**
 
-### Mua key
-```markdown
 
+```markdown
+# Mua Key
 1. CHẠY FILE Info.exe
 2. CHỤP BẢNG THÔNG SỐ MỚI HIỆN LÊN
 3. GỬI QUA FACEBOOK ( facebook.com/anivndev )
 4. ĐỢI PHẢN HỒI
+
+# Bảng giá
+ * Key 30 Ngày   ==> 20.000 vnđ
+ * Key vĩnh viễn ==> 50.000 vnđ ( Không áp dụng cho máy quán nét )
+ 
+# Cách sử dụng Macro
+ **Chức năng**
+  Tự động bắn      : **_Insert_**
+  Giảm giật        : **_Mbutton_**  ( Con lăn chuột )
+  Thu nhỏ/Phóng to : **_Home_**
+ **Chọn súng**
+               Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ Redot
+  Ctrl +       Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ X4
+  Alt  +       Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ X3
+  Win  +       Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ X6
+  Ctrl + Alt + Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ X8
+
+  _( Numpad có nghĩa là hàng phím số bên phải bàn phím, và các số từ 1 đến 9 tương ứng với từng súng khác nhau )_
 
 ```
 
