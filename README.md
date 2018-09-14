@@ -27,6 +27,8 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
   Giảm giật        : Mbutton  ( Con lăn chuột )
   Thu nhỏ/Phóng to : Home
   
+  Các phím mũi tên : Tăng giảm thông số C & D
+  
  **Chọn súng**
                Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ Redot
   Ctrl +       Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ X4
@@ -38,6 +40,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
     số từ 1 đến 9 tương ứng với từng súng khác nhau**
 
 ```
+Xem video hướng dẫn : https://www.youtube.com/watch?v=FW0nGPScUMM
 
 Facebook Hỗ Trợ : https://www.facebook.com/anivndev/
 
