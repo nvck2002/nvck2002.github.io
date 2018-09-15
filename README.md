@@ -12,7 +12,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 ```markdown
 # Mua Key
 1. CHẠY FILE Info.exe
-2. CHỤP BẢNG THÔNG SỐ MỚI HIỆN LÊN
+2. COPPY THÔNG SỐ MỚI HIỆN LÊN
 3. GỬI QUA FACEBOOK ( facebook.com/anivndev )
 4. ĐỢI PHẢN HỒI
 
