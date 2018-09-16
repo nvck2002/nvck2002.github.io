@@ -46,6 +46,11 @@ Facebook Hỗ Trợ : https://www.facebook.com/anivndev/
 
 ```markdown
 
+#16/9/2018
+- Thêm tùy chỉnh phím tắt
+- Fix một số lỗi
+- Tự động update
+
 #11/9/2018
 - Update thêm bản 32Bit
 
