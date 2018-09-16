@@ -18,7 +18,8 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 
 # Bảng giá
  * Key 30 Ngày   ==> 20.000 vnđ
- * Key vĩnh viễn ==> 50.000 vnđ ( Không áp dụng cho máy quán nét )
+ * Key vĩnh viễn ==> 50.000 vnđ
+ * Key vĩnh viễn ( Máy quán nét ) ==> 100.000 vnđ 
  
 # Cách sử dụng Macro
 
