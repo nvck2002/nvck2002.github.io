@@ -24,6 +24,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 # Thanh toán
  * Thanh toán qua chuyển khoản được - 10%
  * Qua thẻ Garena và Viettel
+ * Qua MOMO
  
 # Cách sử dụng Macro
 
