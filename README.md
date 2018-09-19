@@ -21,6 +21,10 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
  * Key vĩnh viễn ==> 50.000 vnđ
  * Key vĩnh viễn ( Máy quán nét ) ==> 100.000 vnđ 
  
+# Thanh toán
+ * Thanh toán qua chuyển khoản được - 10%
+ * Qua thẻ Garena và Viettel
+ 
 # Cách sử dụng Macro
 
  **Chức năng**
