@@ -29,8 +29,9 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 # Cách sử dụng Macro
 
  **Chức năng**
-  Tự động bắn      : Insert
-  Giảm giật        : Mbutton  ( Con lăn chuột )
+  Ghìm tâm         : Chuột Trái
+  Tự động bắn      : [Bật/Tắt] Insert
+  Giảm giật        : [Bật/Tắt] Mbutton  ( Con lăn chuột )
   Thu nhỏ/Phóng to : Home
   
   Các phím mũi tên : Tăng giảm thông số C & D
