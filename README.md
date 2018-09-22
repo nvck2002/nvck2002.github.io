@@ -53,6 +53,10 @@ Facebook Hỗ Trợ : https://www.facebook.com/anivndev/
 
 ```markdown
 
+#22/9/2018
+- Khi ném bom tự động tắt Giảm giật/Bắn Auto
+- Gán thông số cho 2 súng khác nhau
+
 #16/9/2018
 - Thêm tùy chỉnh phím tắt
 - Fix một số lỗi
