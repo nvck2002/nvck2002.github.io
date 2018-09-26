@@ -4,7 +4,7 @@
 
 Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách nghiệm trong các trường hợp bị đánh cắp tài khoản.
 
-### Hướng đãn
+## HƯỚNG DẪN
 
 **!!! LƯU Ý : WINDOW 8 TRỞ LÊN THÌ CÁC BẠN CHẠY MACRO VỚI QUYỀN ADMIN NHÉ !!!**
 
