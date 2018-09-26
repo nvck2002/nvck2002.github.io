@@ -33,6 +33,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
   Tự động bắn      : [Bật/Tắt] Insert
   Giảm giật        : [Bật/Tắt] Mbutton  ( Con lăn chuột )
   Thu nhỏ/Phóng to : Home
+  Khởi động lại    : End
   
   Các phím mũi tên : Tăng giảm thông số C & D
   
@@ -52,6 +53,9 @@ Xem video hướng dẫn : https://www.youtube.com/watch?v=FW0nGPScUMM
 Facebook Hỗ Trợ : https://www.facebook.com/anivndev/
 
 ```markdown
+#26/9/2018
+- Thêm phím Khởi động lại Macro ( Phím End )
+- Tối ưu hóa Code
 
 #25/9/2018
 - Nhớ tùy chỉnh Bật/Tắt Chức năng
