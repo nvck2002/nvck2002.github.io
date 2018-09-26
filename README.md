@@ -52,6 +52,8 @@ Xem video hướng dẫn : https://www.youtube.com/watch?v=FW0nGPScUMM
 
 Facebook Hỗ Trợ : https://www.facebook.com/anivndev/
 
+## LỊCH SỬ UPDATE
+
 ```markdown
 #26/9/2018
 - Ẩn Hiện Macro bằng ( Phím Home )
