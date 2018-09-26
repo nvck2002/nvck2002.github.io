@@ -32,7 +32,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
   Ghìm tâm         : Chuột Trái
   Tự động bắn      : [Bật/Tắt] Insert
   Giảm giật        : [Bật/Tắt] Mbutton  ( Con lăn chuột )
-  Thu nhỏ/Phóng to : Home
+  Ẩn/Hiện          : Home
   Khởi động lại    : End
   
   Các phím mũi tên : Tăng giảm thông số C & D
@@ -54,6 +54,7 @@ Facebook Hỗ Trợ : https://www.facebook.com/anivndev/
 
 ```markdown
 #26/9/2018
+- Ẩn Hiện Macro bằng ( Phím Home )
 - Thêm phím Khởi động lại Macro ( Phím End )
 - Tối ưu hóa Code
 
