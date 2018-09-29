@@ -12,7 +12,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 
 [FACEBOOK HỖ TRỢ](https://www.facebook.com/anivndev/)
 
-# Mua Key
+### Mua Key
 
    ```muakey
    1. CHẠY FILE Info.exe
@@ -21,7 +21,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
    4. ĐỢI PHẢN HỒI
    ```
 
-# Bảng giá
+### Bảng giá
 
    ```banggia
    * Key 30 Ngày   ==> 20.000 vnđ   ( Một máy duy nhất )
@@ -29,7 +29,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
    * Key vĩnh viễn VIP ==> 100.000 vnđ  ( Hỗ trợ chuyển máy )
    ```
    
-# Thanh toán
+### Thanh toán
 
   ```thanhtoan
   * Thanh toán qua chuyển khoản được - 10%
