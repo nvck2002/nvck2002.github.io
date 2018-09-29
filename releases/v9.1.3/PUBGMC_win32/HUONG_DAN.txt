@@ -1,0 +1,38 @@
+﻿Hướng đãn
+!!! LƯU Ý : WINDOW 8 TRỞ LÊN THÌ CÁC BẠN CHẠY MACRO VỚI QUYỀN ADMIN NHÉ !!!
+
+# Mua Key
+1. CHẠY FILE Info.exe
+2. COPPY THÔNG SỐ MỚI HIỆN LÊN
+3. GỬI QUA FACEBOOK ( facebook.com/anivndev )
+4. ĐỢI PHẢN HỒI
+
+# Bảng giá
+ * Key 30 Ngày   ==> 20.000 vnđ   ( Một máy duy nhất )
+ * Key vĩnh viễn ==> 50.000 vnđ	  ( Một máy duy nhất )
+ * Key vĩnh viễn VIP ==> 100.000 vnđ  ( Hỗ trợ chuyển máy )
+
+# Thanh toán
+ * Thanh toán qua chuyển khoản được - 10%
+ * Qua thẻ Garena và Viettel
+ * Qua Momo
+ 
+# Cách sử dụng Macro
+
+ **Chức năng**
+  Tự động bắn      : Insert
+  Giảm giật        : Mbutton  ( Con lăn chuột )
+  Ẩn/Hiện	 : Home
+  Khởi động lại    : End
+
+  Các phím mũi tên : Tăng giảm thông số C & D
+  
+ **Chọn súng**
+               Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ Redot
+  Ctrl +       Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ X4
+  Alt  +       Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ X3
+  Win  +       Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ X6
+  Ctrl + Alt + Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ X8
+
+  **Numpad là hàng phím số bên phải bàn phím, và các 
+    số từ 1 đến 9 tương ứng với từng súng khác nhau**
