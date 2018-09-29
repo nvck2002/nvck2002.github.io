@@ -20,9 +20,9 @@ Facebook Hỗ Trợ : https://www.facebook.com/anivndev/
 4. ĐỢI PHẢN HỒI
 
 # Bảng giá
- * Key 30 Ngày   ==> 20.000 vnđ
- * Key vĩnh viễn ==> 50.000 vnđ
- * Key vĩnh viễn ( Máy quán nét ) ==> 100.000 vnđ 
+ * Key 30 Ngày   ==> 20.000 vnđ   ( Một máy duy nhất )
+ * Key vĩnh viễn ==> 50.000 vnđ	  ( Một máy duy nhất )
+ * Key vĩnh viễn VIP ==> 100.000 vnđ  ( Hỗ trợ chuyển máy )
  
 # Thanh toán
  * Thanh toán qua chuyển khoản được - 10%
