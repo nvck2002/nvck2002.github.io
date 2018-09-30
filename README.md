@@ -36,39 +36,18 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
   * Qua thẻ Garena và Viettel
   * Qua MOMO
   ```
-<table>
-  <tbody>
-    <tr>
-      <tr>
-       <td>KEY 100K</td>
-       <td>KEY 50K</td>
-       <td>KEY 20K</td>
-      </tr>
-      <td><img width=192 height=192 src="https://raw.githubusercontent.com/nvck2002/nvck2002.github.io/master/img/100.jpg"></td>
-      <td><img width=192 height=192 src="https://raw.githubusercontent.com/nvck2002/nvck2002.github.io/master/img/50.jpg"></td>
-      <td><img width=192 height=192 src="https://raw.githubusercontent.com/nvck2002/nvck2002.github.io/master/img/20.jpg"></td>
-    </tr>
-  </tbody>
-</table> 
+  
+| KEY 100K              | KEY 50K              | KEY 20K             |
+|:----------------------|:---------------------|:--------------------|
+|![momo](./img/100.jpg) |![momo](./img/50.jpg) |![momo](./img/20.jpg)|
+  
 
-<table>
-  <tbody>
-    <tr>
-      <tr>
-       <td>TÀI KHOẢN NGÂN HÀNG</td>
-      </tr>
-      <tr>
-      <td>VŨ THỊ HUYỀN</td>
-      </tr>
-      <tr>
-      <td>5200205452198</td>
-      </tr>
-      <tr>
-      <td>AGRIBANK</td>
-      </tr>
-    </tr>
-  </tbody>
-</table> 
+| TÀI KHOẢN NGÂN HÀNG |
+|:--------------------|
+| `VŨ THỊ HUYỀN`      |
+| `5200205452198`     |
+| `AGRIBANK`          |
+
  
 # Cách sử dụng Macro
 
