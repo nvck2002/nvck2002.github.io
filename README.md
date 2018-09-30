@@ -23,11 +23,11 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 
 ### **Bảng giá**
 
-| LOẠI KEY          | GIÁ           | INFO                |
-|:------------------|:--------------|:--------------------|
-| KEY 30 ngày       | 20.000 `vnđ`  | Cho 1 máy duy nhất  |
-| KEY vĩnh viễn     | 50.000 `vnđ`  | Cho 1 máy duy nhất  |
-| KEY vĩnh viễn VIP | 100.000 `vnđ` | Hỗ trợ chuyển máy   |
+| LOẠI KEY            | GIÁ           | INFO                  |
+|:--------------------|:--------------|:----------------------|
+| `KEY 30 ngày`       | 20.000 `vnđ`  | `Cho 1 máy duy nhất`  |
+| `KEY vĩnh viễn`     | 50.000 `vnđ`  | `Cho 1 máy duy nhất`  |
+| `KEY vĩnh viễn VIP` | 100.000 `vnđ` | `Hỗ trợ chuyển máy`   |
    
 ### **Thanh toán**
 
