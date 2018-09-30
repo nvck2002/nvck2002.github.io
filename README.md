@@ -1,10 +1,10 @@
-## DOWNLOAD PUBGMC
+## **DOWNLOAD PUBGMC**
 
 Đây là trang chính thức của **PUBGMC**, các bạn vui lòng chỉ tải **PUBGMC** tại trang này.
 
 Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách nghiệm trong các trường hợp bị đánh cắp tài khoản.
 
-## HƯỚNG DẪN
+## **HƯỚNG DẪN**
 
 **!!! LƯU Ý : WINDOW 8 TRỞ LÊN THÌ CÁC BẠN CHẠY MACRO VỚI QUYỀN ADMIN NHÉ !!!**
 
@@ -12,7 +12,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 
 [FACEBOOK HỖ TRỢ](https://www.facebook.com/anivndev/)
 
-### Mua Key
+### **Mua Key**
 
    ```muakey
    1. CHẠY FILE Info.exe
@@ -21,7 +21,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
    4. ĐỢI PHẢN HỒI
    ```
 
-### Bảng giá
+### **Bảng giá**
 
    ```banggia
    * Key 30 Ngày   ==> 20.000 vnđ   ( Một máy duy nhất )
@@ -29,7 +29,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
    * Key vĩnh viễn VIP ==> 100.000 vnđ  ( Hỗ trợ chuyển máy )
    ```
    
-### Thanh toán
+### **Thanh toán**
 
   ```thanhtoan
   * Thanh toán qua chuyển khoản được - 10%
@@ -50,9 +50,9 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 | `AGRIBANK`          |
 
  
-# Cách sử dụng Macro
+## **Cách sử dụng Macro**
 
-### Chức năng
+### **Chức năng**
  
   ```chucnang
     
@@ -65,7 +65,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
     Các phím mũi tên : Tăng giảm thông số C & D
     
   ```
-### Chọn súng
+### **Chọn súng**
  
   ```chonsung
                  Numpad [ Từ 1 đến 9 ]  -->  Chọn súng chế độ Redot
@@ -78,7 +78,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
     số từ 1 đến 9 tương ứng với từng súng khác nhau
   ```
 
-## LỊCH SỬ UPDATE
+## **LỊCH SỬ UPDATE**
 
 ```markdown
 #26/9/2018
