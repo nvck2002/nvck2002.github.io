@@ -10,7 +10,8 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 
 [VIDEO HƯỚNG DẪN](https://www.youtube.com/watch?v=YaASdROkmgk)
 
-[FACEBOOK HỖ TRỢ](https://www.facebook.com/anivndev/)
+<div class="fb-page" data-href="https://www.facebook.com/anivndev/" data-width="500" data-height="100" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/anivndev/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/anivndev/">Mod Skin Anime / Ani-vn.com</a></blockquote></div>
+
 <div class="fb-send-to-messenger test-fb-send-to-messenger" messenger_app_id="1678638095724206" page_id="1620812324898123" data-ref="" color="blue" size="large"> </div>
 
 ### **Mua Key**
