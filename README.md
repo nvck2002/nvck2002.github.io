@@ -12,6 +12,8 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 
 [FACEBOOK HỖ TRỢ](https://www.facebook.com/anivndev/)
 
+<div class="fb-send-to-messenger test-fb-send-to-messenger" messenger_app_id="1678638095724206" page_id="1620812324898123" data-ref="" color="blue" size="large"> </div>
+
 ### **Mua Key**
 
    ```muakey
