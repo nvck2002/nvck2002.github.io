@@ -36,7 +36,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
   ```thanhtoan
   * Thanh toán qua chuyển khoản được - 10%
   * Qua thẻ Garena và Viettel
-  * Qua MOMO - 10%
+  * Qua MOMO
   ```
   
 | KEY 100K              | KEY 50K              | KEY 20K             |
