@@ -83,6 +83,10 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 ## **LỊCH SỬ UPDATE**
 
 ```markdown
+
+#10/10/2018
+- Thêm chức năng tự động chuyển máy cho KEY VIP 100K
+
 #26/9/2018
 - Ẩn Hiện Macro bằng ( Phím Home )
 - Thêm phím Khởi động lại Macro ( Phím End )
