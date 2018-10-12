@@ -4,6 +4,13 @@
 
 Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách nghiệm trong các trường hợp bị đánh cắp tài khoản.
 
+## **CÁC PHIÊN BẢN GAME HỖ TRỢ**
+
+| Tencent Gaming Budy   | LD Player            | PUBG ProjectThai    | PUBG PC             |
+|:----------------------|:---------------------|:--------------------|:--------------------|
+|![TGB](./img/TGB.png)  |![LDP](./img/LDP.png) |![PPT](./img/PPT.png) |![PPC](./img/PPC.jpg)|
+
+
 ## **HƯỚNG DẪN**
 
 **!!! LƯU Ý : PHẢI CHẠY MACRO VỚI QUYỀN ADMIN NHÉ !!!**
