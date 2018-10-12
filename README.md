@@ -6,7 +6,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 
 ## **CÁC PHIÊN BẢN GAME HỖ TRỢ**
 
-| Tencent Gaming Budy   | LD Player            | PUBG ProjectThai     | PUBG PC             |
+| Tencent   | LD Player            | PUBG ProjectThai     | PUBG PC             |
 |:----------------------|:---------------------|:---------------------|:--------------------|
 |![TGB](./img/TGB.png)  |![LDP](./img/LDP.png) |![PPT](./img/PPT.png) |![PPC](./img/PPC.jpg)|
 |       Hoạt động ✓       |       Hoạt động ✓      |       Hoạt động ✓      |       Hoạt động ✓     |
