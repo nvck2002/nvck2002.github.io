@@ -9,6 +9,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 | Tencent Gaming Budy   | LD Player            | PUBG ProjectThai    | PUBG PC             |
 |:----------------------|:---------------------|:--------------------|:--------------------|
 |![TGB](./img/TGB.png)  |![LDP](./img/LDP.png) |![PPT](./img/PPT.png) |![PPC](./img/PPC.jpg)|
+|![OK](./img/Ok.png  )  |![OK](./img/Ok.png  ) |![OK](./img/Ok.png  ) |![OK](./img/Ok.png  )|
 
 
 ## **HƯỚNG DẪN**
