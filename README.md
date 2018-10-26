@@ -15,6 +15,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 ## **HƯỚNG DẪN**
 
 ## **!!! LƯU Ý : PHẢI CHẠY MACRO VỚI QUYỀN ADMIN NHÉ !!!** ##
+![momo](./img/runass.png)
 
 [VIDEO HƯỚNG DẪN](https://www.youtube.com/watch?v=YaASdROkmgk)
 
