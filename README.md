@@ -14,7 +14,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 
 ## **HƯỚNG DẪN**
 
-## **!!! LƯU Ý : PHẢI CHẠY MACRO VỚI QUYỀN ADMIN NHÉ !!!** ##
+### **!!! LƯU Ý : PHẢI CHẠY MACRO VỚI QUYỀN ADMIN NHÉ !!!** ###
 ![momo](./img/runass.png)
 
 [VIDEO HƯỚNG DẪN](https://www.youtube.com/watch?v=YaASdROkmgk)
@@ -39,6 +39,8 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 | `KEY 30 ngày`       | `20.000 vnđ`  | `Cho 1 máy duy nhất`  |
 | `KEY vĩnh viễn`     | `50.000 vnđ`  | `Cho 1 máy duy nhất`  |
 | `KEY vĩnh viễn VIP` | `100.000 vnđ` | `Cho máy nào cũng được`   |
+
+``` Cài lại windown cũng tính là chuyển máy ```
    
 ### **Thanh toán**
 
