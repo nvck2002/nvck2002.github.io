@@ -17,7 +17,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 ### **!!! LƯU Ý : PHẢI CHẠY MACRO VỚI QUYỀN ADMIN NHÉ !!!** ###
 ![momo](./img/runass.png)
 
-[VIDEO HƯỚNG DẪN](https://www.youtube.com/watch?v=YaASdROkmgk)
+[VIDEO HƯỚNG DẪN](https://www.youtube.com/playlist?list=PLMa0DOIozptzJZ15mmpyNz00WrxqjIVDH)
 
 [FACEBOOK HỖ TRỢ](https://www.facebook.com/anivndev/)
 
@@ -58,8 +58,8 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 
 | TÀI KHOẢN NGÂN HÀNG |
 |:--------------------|
-| `VŨ THỊ HUYỀN`      |
-| `5200205452198`     |
+| `NGUYỄN VĂN CAO KỲ`      |
+| `5200205912625`     |
 | `AGRIBANK`          |
 
  
