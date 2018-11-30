@@ -95,6 +95,9 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 
 ```markdown
 
+#30/10/2018
+- Fix lỗi đăng nhập
+
 #10/10/2018
 - Thêm chức năng tự động chuyển máy cho KEY VIP 100K
 
