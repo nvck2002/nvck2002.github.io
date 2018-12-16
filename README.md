@@ -94,6 +94,8 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 ## **LỊCH SỬ UPDATE**
 
 ```markdown
+#16/12/2018
+- Fix lỗi server
 
 #30/10/2018
 - Fix lỗi đăng nhập
