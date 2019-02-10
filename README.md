@@ -1,5 +1,7 @@
 **[English version](https://nvck2002.github.io/en)**
 
+**[THAM GIA NHÓM FACEBOOK](https://www.facebook.com/groups/1971354423160330/)**
+
 ## **DOWNLOAD PUBGMC**
 
 Đây là trang chính thức của **PUBGMC**, các bạn vui lòng chỉ tải **PUBGMC** tại trang này.
