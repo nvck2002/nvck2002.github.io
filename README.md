@@ -21,7 +21,7 @@ Nếu các bạn tải ở các nơi khác chúng tôi sẽ không chịu trách
 ### **!!! LƯU Ý : PHẢI CHẠY MACRO VỚI QUYỀN ADMIN NHÉ !!!** ###
 ![momo](./img/runass.png)
 
-**!!! NẾU SÀI CHO BẢN PC VẪN CÓ THỂ BỊ BAN ( BÊN MÌNH KO CHỊU TRÁCH NGHIỆM ) !!!**
+**!!! NẾU SÀI CHO BẢN PC NẾU BỊ REPORT NHIỀU THÌ VẪN CÓ THỂ BỊ BAN ( BÊN MÌNH KO CHỊU TRÁCH NGHIỆM ) !!!**
 
 [VIDEO HƯỚNG DẪN](https://www.youtube.com/playlist?list=PLMa0DOIozptzJZ15mmpyNz00WrxqjIVDH)
 
