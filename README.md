@@ -1,3 +1,5 @@
+**[English version](https://nvck2002.github.io/en)**
+
 ## **DOWNLOAD PUBGMC**
 
 Đây là trang chính thức của **PUBGMC**, các bạn vui lòng chỉ tải **PUBGMC** tại trang này.
