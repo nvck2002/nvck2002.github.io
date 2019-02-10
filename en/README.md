@@ -32,7 +32,10 @@
 
 | KEY TYPE            | PRICE           | INFO                  |
 |:--------------------|:--------------|:----------------------|
-| `KEY Lifetime` | `5 $` | `For Lifetime`   |
+| `KEY Lifetime 1 PC` | `5 $` | `For Lifetime`   |
+| `KEY Lifetime All PC` | `10 $` | `For Lifetime`   |
+
+### ** Installing the new OS 5 $ key will be deleted ** ###
 
    
 ### **Payment**
