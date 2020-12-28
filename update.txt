@@ -2,5 +2,5 @@
   "version": 9.6,
   "message": "Thông báo là không có gì để thông báo ^^ !",
   "redirect": 1,
-  "web": "ani-vn.tech"
+  "url": "ani-vn.tech"
 }
