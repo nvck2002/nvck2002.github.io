@@ -1,3 +1,4 @@
 {
-  "version": 9.6
+  "version": 9.6,
+  "message": "Thông báo là không có gì để thông báo ^^ !"
 }
