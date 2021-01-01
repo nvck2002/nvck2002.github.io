@@ -1,6 +1,6 @@
 {
-  "version": 9.6,
-  "message": "Thông báo là không có gì để thông báo ^^ !",
+  "version": 9.7,
+  "message": "Cập nhật 1 chút xíu ^^ !",
   "redirect": 1,
-  "url": "ani-vn.tech"
+  "url": "https://github.com/nvck2002/nvck2002.github.io/releases/download/9.7.0/ANI-MC.rar"
 }
