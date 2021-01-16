@@ -1,5 +1,5 @@
 {
-  "version": 1.2.0,
+  "version": "1.2.0",
   "message": "Cập nhật bản 1.2.0 PUBG! Sửa lỗi không lưu thông số khi thao tác trên GUI!",
   "redirect": 1,
   "url": "https://github.com/nvck2002/nvck2002.github.io/releases/download/1.2.0/ANI-MC.zip"
