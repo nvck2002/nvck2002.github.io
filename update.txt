@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "message": "Cập nhật bản 1.2.0 PUBG! Sửa lỗi không lưu thông số khi thao tác trên GUI!",
+  "version": "1.3.0",
+  "message": "Cập nhật bản 1.3.0 PUBG! Tương thích với GTA V và Hệ thống đăng nhập.",
   "redirect": 1,
-  "url": "https://github.com/nvck2002/nvck2002.github.io/releases/download/1.2.0/ANI-MC.zip"
+  "url": "https://github.com/nvck2002/nvck2002.github.io/releases/download/1.3.0/ANI-MC.zip"
 }
